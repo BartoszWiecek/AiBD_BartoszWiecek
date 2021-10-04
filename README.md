@@ -1,1 +1,2 @@
 # AiBD_BartoszWiecek
+# Zmiana
