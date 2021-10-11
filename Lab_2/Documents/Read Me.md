@@ -1,1 +1,1 @@
-Operacje wykonane na danych:
+# Operacje wykonane na danych:
