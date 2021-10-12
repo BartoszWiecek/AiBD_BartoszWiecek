@@ -1,3 +1,5 @@
+# Dane dotyczą liczby zachorowań na gruźlicę w poszczególnych krajach, w danym roku, wśród osób z danego przedziału wiekowego    
+
 # Wyjaśnienie nagłówków kolumn:   
 iso2 - kraj pochodzenia osoby poddanej testowi   
 year - rok wykonania testu   
