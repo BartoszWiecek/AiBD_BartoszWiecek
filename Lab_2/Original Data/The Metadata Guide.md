@@ -1,4 +1,6 @@
-# Dane dotyczą liczby zachorowań na gruźlicę w poszczególnych krajach, w danym roku, wśród osób danej płci, z danego przedziału wiekowego    
+# The Metadata Guide
+
+## Dane dotyczą liczby zachorowań na gruźlicę w poszczególnych krajach, w danym roku, wśród osób danej płci, z danego przedziału wiekowego    
 
 ### Wyjaśnienie nagłówków kolumn:   
 iso2 - kraj pochodzenia osoby poddanej testowi   
